@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "tomes": [
+    {
+      "id": "tome_001",
+      "name": "Tome 1",
+      "number": 1,
+      "file": "tome_001.json"
+    },
+    {
+      "id": "tome_002",
+      "name": "Tome 2",
+      "number": 2,
+      "file": "tome_002.json"
+    },
+    {
+      "id": "tome_003",
+      "name": "Tome 3",
+      "number": 3,
+      "file": "tome_003.json"
+    },
+    {
+      "id": "tome_004",
+      "name": "Tome 4",
+      "number": 4,
+      "file": "tome_004.json"
+    },
+    {
+      "id": "tome_005",
+      "name": "Tome 5",
+      "number": 5,
+      "file": "tome_005.json"
+    },
+    {
+      "id": "tome_006",
+      "name": "Tome 6",
+      "number": 6,
+      "file": "tome_006.json"
+    },
+    {
+      "id": "tome_007",
+      "name": "Tome 7",
+      "number": 7,
+      "file": "tome_007.json"
+    },
+    {
+      "id": "tome_008",
+      "name": "Tome 8",
+      "number": 8,
+      "file": "tome_008.json"
+    },
+    {
+      "id": "tome_009",
+      "name": "Tome 9",
+      "number": 9,
+      "file": "tome_009.json"
+    },
+    {
+      "id": "tome_010",
+      "name": "Tome 10",
+      "number": 10,
+      "file": "tome_010.json"
+    },
+    {
+      "id": "tome_011",
+      "name": "Tome 11",
+      "number": 11,
+      "file": "tome_011.json"
+    },
+    {
+      "id": "tome_012",
+      "name": "Tome 12",
+      "number": 12,
+      "file": "tome_012.json"
+    },
+    {
+      "id": "tome_013",
+      "name": "Tome 13",
+      "number": 13,
+      "file": "tome_013.json"
+    },
+    {
+      "id": "tome_014",
+      "name": "Tome 14",
+      "number": 14,
+      "file": "tome_014.json"
+    },
+    {
+      "id": "tome_015",
+      "name": "Tome 15",
+      "number": 15,
+      "file": "tome_015.json"
+    },
+    {
+      "id": "tome_016",
+      "name": "Tome 16",
+      "number": 16,
+      "file": "tome_016.json"
+    },
+    {
+      "id": "tome_017",
+      "name": "Tome 17",
+      "number": 17,
+      "file": "tome_017.json"
+    },
+    {
+      "id": "tome_018",
+      "name": "Tome 18",
+      "number": 18,
+      "file": "tome_018.json"
+    },
+    {
+      "id": "tome_019",
+      "name": "Tome 19",
+      "number": 19,
+      "file": "tome_019.json"
+    },
+    {
+      "id": "tome_020",
+      "name": "Tome 20",
+      "number": 20,
+      "file": "tome_020.json"
+    },
+    {
+      "id": "tome_021",
+      "name": "Tome 21",
+      "number": 21,
+      "file": "tome_021.json"
+    },
+    {
+      "id": "tome_022",
+      "name": "Tome 22",
+      "number": 22,
+      "file": "tome_022.json"
+    }
+  ]
+}

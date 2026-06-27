@@ -1,0 +1,867 @@
+{
+  "id": "tome_018",
+  "name": "Tome 18",
+  "number": 18,
+  "pages": {
+    "1": {
+      "nodes": {
+        "P": {
+          "name": "Prologue P",
+          "type": "prologue",
+          "x": 434.16800907338563,
+          "y": 340.1921546214942
+        },
+        "N1": {
+          "name": "Normal Challenge N1",
+          "type": "normal",
+          "x": 561.676924624546,
+          "y": 468.978853170808
+        },
+        "N2": {
+          "name": "Normal Challenge N2",
+          "type": "normal",
+          "x": 691.6766227551777,
+          "y": 468.9582321673662
+        },
+        "N3": {
+          "name": "Normal Challenge N3",
+          "type": "normal",
+          "x": 821.6766212978663,
+          "y": 468.9476384999791
+        },
+        "N4": {
+          "name": "Normal Challenge N4",
+          "type": "normal",
+          "x": 959.3968442868713,
+          "y": 467.7087255137533
+        },
+        "N5": {
+          "name": "Normal Challenge N5",
+          "type": "normal",
+          "x": 832.4116408820813,
+          "y": 339.39162993794247
+        },
+        "N6": {
+          "name": "Normal Challenge N6",
+          "type": "normal",
+          "x": 702.2163567082155,
+          "y": 339.38057572423514
+        },
+        "N7": {
+          "name": "Normal Challenge N7",
+          "type": "normal",
+          "x": 572.0626416144017,
+          "y": 339.36264119254287
+        },
+        "M1": {
+          "name": "Mastery Challenge M1",
+          "type": "mastery",
+          "x": 691.5520805066795,
+          "y": 614.854242453842
+        },
+        "M2": {
+          "name": "Mastery Challenge M2",
+          "type": "mastery",
+          "x": 830.7105562994074,
+          "y": 614.8775678525524
+        },
+        "M3": {
+          "name": "Mastery Challenge M3",
+          "type": "mastery",
+          "x": 830.885506831432,
+          "y": 783.8792678593906
+        },
+        "M4": {
+          "name": "Mastery Challenge M4",
+          "type": "mastery",
+          "x": 1296.6651006822822,
+          "y": 783.8792678593906
+        },
+        "E": {
+          "name": "Epilogue E",
+          "type": "epilogue",
+          "x": 1485.8319909266143,
+          "y": 596.5482075758913
+        },
+        "G1": {
+          "name": "Glyph Challenge G1",
+          "type": "glyph",
+          "x": 1294.6382725057829,
+          "y": 596.5482075758913
+        },
+        "N8": {
+          "name": "Normal Challenge N8",
+          "type": "normal",
+          "x": 1108.5258417359696,
+          "y": 597.292956386291
+        },
+        "N9": {
+          "name": "Normal Challenge N9",
+          "type": "normal",
+          "x": 959.5718259229661,
+          "y": 597.7086077499578
+        },
+        "N10": {
+          "name": "Normal Challenge N10",
+          "type": "normal",
+          "x": 1086.802811145506,
+          "y": 340.7417509695309
+        },
+        "C1": {
+          "name": "Core Memory Challenge C1",
+          "type": "core_memory",
+          "x": 1294.6555709615013,
+          "y": 340.7417509695309
+        },
+        "M5": {
+          "name": "Mastery Challenge M5",
+          "type": "mastery",
+          "x": 1388.2765897904228,
+          "y": 247.12073214060942
+        },
+        "M6": {
+          "name": "Mastery Challenge M6",
+          "type": "mastery",
+          "x": 1485.8146924708963,
+          "y": 344.1572319624007
+        }
+      },
+      "edges": [
+        [
+          "N1",
+          "P"
+        ],
+        [
+          "N1",
+          "N2"
+        ],
+        [
+          "N2",
+          "N3"
+        ],
+        [
+          "N3",
+          "N4"
+        ],
+        [
+          "N4",
+          "N5"
+        ],
+        [
+          "N5",
+          "N6"
+        ],
+        [
+          "N6",
+          "N7"
+        ],
+        [
+          "N7",
+          "P"
+        ],
+        [
+          "M1",
+          "N2"
+        ],
+        [
+          "M1",
+          "M2"
+        ],
+        [
+          "M2",
+          "M3"
+        ],
+        [
+          "M3",
+          "M4"
+        ],
+        [
+          "E",
+          "M4"
+        ],
+        [
+          "E",
+          "G1"
+        ],
+        [
+          "G1",
+          "N8"
+        ],
+        [
+          "N8",
+          "N9"
+        ],
+        [
+          "N4",
+          "N9"
+        ],
+        [
+          "N10",
+          "N4"
+        ],
+        [
+          "C1",
+          "N10"
+        ],
+        [
+          "C1",
+          "M5"
+        ],
+        [
+          "M5",
+          "M6"
+        ],
+        [
+          "E",
+          "M6"
+        ],
+        [
+          "M4",
+          "N8"
+        ],
+        [
+          "C1",
+          "G1"
+        ]
+      ]
+    },
+    "2": {
+      "nodes": {
+        "P": {
+          "name": "Prologue P",
+          "type": "prologue",
+          "x": 519.3051010283682,
+          "y": 601.3205100570561
+        },
+        "N1": {
+          "name": "Normal Challenge N1",
+          "type": "normal",
+          "x": 382.456347759175,
+          "y": 464.916897746055
+        },
+        "N2": {
+          "name": "Normal Challenge N2",
+          "type": "normal",
+          "x": 513.8342916320387,
+          "y": 329.5584630790175
+        },
+        "C1": {
+          "name": "Core Memory Challenge C1",
+          "type": "core_memory",
+          "x": 825.0,
+          "y": 476.0
+        },
+        "N3": {
+          "name": "Normal Challenge N3",
+          "type": "normal",
+          "x": 1042.4206685867232,
+          "y": 607.6465163038644
+        },
+        "M1": {
+          "name": "Mastery Challenge M1",
+          "type": "mastery",
+          "x": 641.2510860946111,
+          "y": 607.0766152429801
+        },
+        "M2": {
+          "name": "Mastery Challenge M2",
+          "type": "mastery",
+          "x": 718.0,
+          "y": 542.0
+        },
+        "N4": {
+          "name": "Normal Challenge N4",
+          "type": "normal",
+          "x": 1042.7192267794692,
+          "y": 724.3786438617262
+        },
+        "N5": {
+          "name": "Normal Challenge N5",
+          "type": "normal",
+          "x": 607.4544521438844,
+          "y": 721.1429272888693
+        },
+        "N6": {
+          "name": "Normal Challenge N6",
+          "type": "normal",
+          "x": 402.66726202983216,
+          "y": 721.1429272888693
+        },
+        "G1": {
+          "name": "Glyph Challenge G1",
+          "type": "glyph",
+          "x": 1273.0937394015045,
+          "y": 604.2416532822974
+        },
+        "G2": {
+          "name": "Glyph Challenge G2",
+          "type": "glyph",
+          "x": 1288.2854612759106,
+          "y": 604.5661402082062
+        },
+        "E": {
+          "name": "Epilogue E",
+          "type": "epilogue",
+          "x": 1410.5891478588733,
+          "y": 602.8426273321364
+        },
+        "M3": {
+          "name": "Mastery Challenge M3",
+          "type": "mastery",
+          "x": 1528.5835735699047,
+          "y": 720.8370530431677
+        },
+        "M4": {
+          "name": "Mastery Challenge M4",
+          "type": "mastery",
+          "x": 1399.9501836106724,
+          "y": 719.4380270930068
+        },
+        "M5": {
+          "name": "Mastery Challenge M5",
+          "type": "mastery",
+          "x": 1176.1960366940245,
+          "y": 722.2957209708186
+        },
+        "M6": {
+          "name": "Mastery Challenge M6",
+          "type": "mastery",
+          "x": 1156.0584410296656,
+          "y": 333.6386399944373
+        },
+        "M7": {
+          "name": "Mastery Challenge M7",
+          "type": "mastery",
+          "x": 1409.0072799826462,
+          "y": 333.6386399944373
+        }
+      },
+      "edges": [
+        [
+          "N1",
+          "P"
+        ],
+        [
+          "N1",
+          "N2"
+        ],
+        [
+          "C1",
+          "N2"
+        ],
+        [
+          "C1",
+          "N3"
+        ],
+        [
+          "M1",
+          "N3"
+        ],
+        [
+          "M2",
+          "N3"
+        ],
+        [
+          "N3",
+          "N4"
+        ],
+        [
+          "N4",
+          "N5"
+        ],
+        [
+          "N5",
+          "N6"
+        ],
+        [
+          "N6",
+          "P"
+        ],
+        [
+          "G1",
+          "N3"
+        ],
+        [
+          "G2",
+          "N3"
+        ],
+        [
+          "E",
+          "G2"
+        ],
+        [
+          "E",
+          "G1"
+        ],
+        [
+          "E",
+          "M3"
+        ],
+        [
+          "M3",
+          "M4"
+        ],
+        [
+          "M4",
+          "M5"
+        ],
+        [
+          "M5",
+          "N4"
+        ],
+        [
+          "M6",
+          "N2"
+        ],
+        [
+          "M6",
+          "M7"
+        ],
+        [
+          "E",
+          "M7"
+        ]
+      ]
+    },
+    "3": {
+      "nodes": {
+        "P": {
+          "name": "Prologue P",
+          "type": "prologue",
+          "x": 544.864496096113,
+          "y": 367.0374620103678
+        },
+        "N1": {
+          "name": "Normal Challenge N1",
+          "type": "normal",
+          "x": 663.5784379900624,
+          "y": 248.32352011641836
+        },
+        "N2": {
+          "name": "Normal Challenge N2",
+          "type": "normal",
+          "x": 903.4690801244897,
+          "y": 488.21416225084556
+        },
+        "N3": {
+          "name": "Normal Challenge N3",
+          "type": "normal",
+          "x": 786.3363715702201,
+          "y": 608.5093374844748
+        },
+        "N4": {
+          "name": "Normal Challenge N4",
+          "type": "normal",
+          "x": 686.0381480287595,
+          "y": 508.2111139430142
+        },
+        "M1": {
+          "name": "Mastery Challenge M1",
+          "type": "mastery",
+          "x": 426.2195376393696,
+          "y": 485.6824204671112
+        },
+        "M2": {
+          "name": "Mastery Challenge M2",
+          "type": "mastery",
+          "x": 426.2195376393696,
+          "y": 651.6911344914324
+        },
+        "M3": {
+          "name": "Mastery Challenge M3",
+          "type": "mastery",
+          "x": 579.1031227389475,
+          "y": 804.5747195910103
+        },
+        "M4": {
+          "name": "Mastery Challenge M4",
+          "type": "mastery",
+          "x": 903.4690801244897,
+          "y": 800.5304544929038
+        },
+        "N5": {
+          "name": "Normal Challenge N5",
+          "type": "normal",
+          "x": 1028.2032984276343,
+          "y": 612.9483805539902
+        },
+        "N6": {
+          "name": "Normal Challenge N6",
+          "type": "normal",
+          "x": 1153.9062041988109,
+          "y": 489.75189303017146
+        },
+        "N7": {
+          "name": "Normal Challenge N7",
+          "type": "normal",
+          "x": 1027.9187767719873,
+          "y": 363.76446560334796
+        },
+        "M5": {
+          "name": "Mastery Challenge M5",
+          "type": "mastery",
+          "x": 1165.2579619663454,
+          "y": 226.4252804089897
+        },
+        "M6": {
+          "name": "Mastery Challenge M6",
+          "type": "mastery",
+          "x": 1361.298361460032,
+          "y": 226.4252804089897
+        },
+        "M7": {
+          "name": "Mastery Challenge M7",
+          "type": "mastery",
+          "x": 1491.298361460032,
+          "y": 226.4252804089897
+        },
+        "G1": {
+          "name": "Glyph Challenge G1",
+          "type": "glyph",
+          "x": 1493.7804623606305,
+          "y": 590.3602687251182
+        },
+        "N8": {
+          "name": "Normal Challenge N8",
+          "type": "normal",
+          "x": 1273.5391454322473,
+          "y": 370.118951796735
+        },
+        "E": {
+          "name": "Epilogue E",
+          "type": "epilogue",
+          "x": 1330.0012209687884,
+          "y": 588.475144412894
+        },
+        "C1": {
+          "name": "Core Memory Challenge C1",
+          "type": "core_memory",
+          "x": 1166.8656416276633,
+          "y": 751.6107237540192
+        }
+      },
+      "edges": [
+        [
+          "N1",
+          "P"
+        ],
+        [
+          "N1",
+          "N2"
+        ],
+        [
+          "N2",
+          "N3"
+        ],
+        [
+          "N3",
+          "N4"
+        ],
+        [
+          "N4",
+          "P"
+        ],
+        [
+          "M1",
+          "P"
+        ],
+        [
+          "M1",
+          "M2"
+        ],
+        [
+          "M2",
+          "M3"
+        ],
+        [
+          "M3",
+          "M4"
+        ],
+        [
+          "M4",
+          "N2"
+        ],
+        [
+          "N2",
+          "N5"
+        ],
+        [
+          "N5",
+          "N6"
+        ],
+        [
+          "N6",
+          "N7"
+        ],
+        [
+          "N2",
+          "N7"
+        ],
+        [
+          "M5",
+          "N7"
+        ],
+        [
+          "M5",
+          "M6"
+        ],
+        [
+          "M6",
+          "M7"
+        ],
+        [
+          "G1",
+          "M7"
+        ],
+        [
+          "G1",
+          "N8"
+        ],
+        [
+          "N6",
+          "N8"
+        ],
+        [
+          "E",
+          "G1"
+        ],
+        [
+          "C1",
+          "E"
+        ],
+        [
+          "C1",
+          "N5"
+        ]
+      ]
+    },
+    "4": {
+      "nodes": {
+        "P": {
+          "name": "Prologue P",
+          "type": "prologue",
+          "x": 812.3142456445509,
+          "y": 579.6044336251067
+        },
+        "N1": {
+          "name": "Normal Challenge N1",
+          "type": "normal",
+          "x": 720.3903640902996,
+          "y": 487.68055207085547
+        },
+        "N2": {
+          "name": "Normal Challenge N2",
+          "type": "normal",
+          "x": 542.583486493383,
+          "y": 310.8665482745032
+        },
+        "M1": {
+          "name": "Mastery Challenge M1",
+          "type": "mastery",
+          "x": 543.5762903517123,
+          "y": 743.2315710975431
+        },
+        "N3": {
+          "name": "Normal Challenge N3",
+          "type": "normal",
+          "x": 672.5825139612165,
+          "y": 310.84938663979347
+        },
+        "C1": {
+          "name": "Core Memory Challenge C1",
+          "type": "core_memory",
+          "x": 802.5717319806193,
+          "y": 312.523662215725
+        },
+        "N4": {
+          "name": "Normal Challenge N4",
+          "type": "normal",
+          "x": 948.9659974127085,
+          "y": 461.3888110768682
+        },
+        "N5": {
+          "name": "Normal Challenge N5",
+          "type": "normal",
+          "x": 947.2731704015679,
+          "y": 802.3020232721607
+        },
+        "M2": {
+          "name": "Mastery Challenge M2",
+          "type": "mastery",
+          "x": 849.2253667191087,
+          "y": 704.2542195897016
+        },
+        "N6": {
+          "name": "Normal Challenge N6",
+          "type": "normal",
+          "x": 719.9827961700629,
+          "y": 802.3020232721607
+        },
+        "N7": {
+          "name": "Normal Challenge N7",
+          "type": "normal",
+          "x": 719.9827961700629,
+          "y": 671.9358830995947
+        },
+        "N8": {
+          "name": "Normal Challenge N8",
+          "type": "normal",
+          "x": 1117.0832253779358,
+          "y": 632.4460738831795
+        },
+        "M3": {
+          "name": "Mastery Challenge M3",
+          "type": "mastery",
+          "x": 1117.1291197905489,
+          "y": 829.4526286279236
+        },
+        "N9": {
+          "name": "Normal Challenge N9",
+          "type": "normal",
+          "x": 947.2577118830549,
+          "y": 331.4004660853334
+        },
+        "M4": {
+          "name": "Mastery Challenge M4",
+          "type": "mastery",
+          "x": 947.273226509039,
+          "y": 201.40046701111652
+        },
+        "M5": {
+          "name": "Mastery Challenge M5",
+          "type": "mastery",
+          "x": 1372.77366745391,
+          "y": 201.98861769158282
+        },
+        "M6": {
+          "name": "Mastery Challenge M6",
+          "type": "mastery",
+          "x": 1376.75349597267,
+          "y": 502.8553536159337
+        },
+        "G1": {
+          "name": "Glyph Challenge G1",
+          "type": "glyph",
+          "x": 1246.7536580928463,
+          "y": 502.65004599403875
+        },
+        "E": {
+          "name": "Epilogue E",
+          "type": "epilogue",
+          "x": 1082.1164665706401,
+          "y": 502.85490572814274
+        },
+        "G2": {
+          "name": "Glyph Challenge G2",
+          "type": "glyph",
+          "x": 1244.3454550855654,
+          "y": 331.988615395142
+        },
+        "N10": {
+          "name": "Normal Challenge N10",
+          "type": "normal",
+          "x": 1247.0832977699183,
+          "y": 632.6504857294925
+        }
+      },
+      "edges": [
+        [
+          "N1",
+          "P"
+        ],
+        [
+          "N1",
+          "N2"
+        ],
+        [
+          "M1",
+          "N2"
+        ],
+        [
+          "N2",
+          "N3"
+        ],
+        [
+          "C1",
+          "N3"
+        ],
+        [
+          "C1",
+          "N4"
+        ],
+        [
+          "N4",
+          "N5"
+        ],
+        [
+          "M2",
+          "N5"
+        ],
+        [
+          "N5",
+          "N6"
+        ],
+        [
+          "N6",
+          "N7"
+        ],
+        [
+          "N7",
+          "P"
+        ],
+        [
+          "N5",
+          "N8"
+        ],
+        [
+          "M3",
+          "N8"
+        ],
+        [
+          "N4",
+          "N8"
+        ],
+        [
+          "N4",
+          "N9"
+        ],
+        [
+          "M4",
+          "N9"
+        ],
+        [
+          "M4",
+          "M5"
+        ],
+        [
+          "M5",
+          "M6"
+        ],
+        [
+          "G1",
+          "M6"
+        ],
+        [
+          "E",
+          "G1"
+        ],
+        [
+          "G1",
+          "G2"
+        ],
+        [
+          "G2",
+          "N9"
+        ],
+        [
+          "G1",
+          "N10"
+        ],
+        [
+          "N10",
+          "N8"
+        ]
+      ]
+    }
+  }
+}
